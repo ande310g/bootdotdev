@@ -1,2 +1,5 @@
 /bookbot/books
 /bookbot/__pycache__
+/astroid/.venv
+/astroid/__pycache__
+/astroid/.python-version
